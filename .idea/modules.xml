@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ch02-conditional-loop-reference/ch02-conditional-loop-reference.iml" filepath="$PROJECT_DIR$/ch02-conditional-loop-reference/ch02-conditional-loop-reference.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02-conditional-loop-reference/lecture.iml" filepath="$PROJECT_DIR$/ch02-conditional-loop-reference/lecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/study/study.iml" filepath="$PROJECT_DIR$/study/study.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
